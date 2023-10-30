@@ -1,4 +1,4 @@
-from transformers import RobertaTokenizer, RobertaPreTrainedModel, RobertaModel
+from transformers import RobertaPreTrainedModel, RobertaModel
 import torch
 from torch import nn
 
@@ -28,6 +28,24 @@ class DemoFunctions:
         self.model = model
         self.tokenizer = tokenizer
 
+        self.id2label_parliament = {
+        0: "MC8: Economic Impact & Recovery",
+        1: "MC13: Government Policy & Response",
+        2: "MC15: Labor & Employment Dynamics",
+        3: "MC16: Legal & Human Rights",
+        4: "Other",
+        5: "MC21: Public Health & Preventative Measures"
+        }   
+        
+        self.id2label_twitter = {
+            0: "MC10: Epidemiology & Virus Transmission",
+            1: "MC13: Government Policy & Response",
+            2: "MC17: Media, Public Perception & Culture",
+            3: "Other",
+            4: "MC21: Public Health & Preventative Measures",
+            5: "MC24: Social Relations & Community Dynamics"
+        }
+
     def preprocess(self, text):
         inputs = self.tokenizer(text, return_tensors="pt", max_length=512, truncation=True, padding="max_length")
         return inputs
@@ -42,14 +60,14 @@ class DemoFunctions:
     # Step 5: Decoding the Predictions
     def decode_predictions_parliament(self, probabilities, threshold=0.5):
         # Assuming your labels are in the format: [label1, label2, ...]
-        id2label =  {
-        0: "Economic Impact & Recovery",
-        1: "Government Policy & Response",
-        2: "Labor & Employment Dynamics",
-        3: "Legal & Human Rights",
-        4: "Other",
-        5: "Public Health & Preventative Measures"
-    }   
+        id2label =  self.id2label_parliament
+
+        predicted_labels = [id2label[i] for i, prob in enumerate(probabilities[0]) if prob > threshold]
+        return predicted_labels
+    
+    def decode_predictions_twitter(self, probabilities, threshold=0.5):
+        # Assuming your labels are in the format: [label1, label2, ...]
+        id2label = self.id2label_twitter
 
         predicted_labels = [id2label[i] for i, prob in enumerate(probabilities[0]) if prob > threshold]
         return predicted_labels

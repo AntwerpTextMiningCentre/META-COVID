@@ -1,4 +1,4 @@
-
+rdflib
 torch
 transformers
 scikit-learn

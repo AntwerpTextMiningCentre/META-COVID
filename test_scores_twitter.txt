@@ -1,0 +1,13 @@
+                                       precision    recall  f1-score   support
+
+    Epidemiology & Virus Transmission       0.55      0.54      0.55       140
+         Government Policy & Response       0.58      0.74      0.65       276
+   Media, Public Perception & Culture       0.64      0.33      0.44       255
+                                Other       0.54      0.67      0.60       438
+Public Health & Preventative Measures       0.67      0.62      0.64       587
+Social Relations & Community Dynamics       0.36      0.24      0.29       109
+
+                            micro avg       0.59      0.58      0.58      1805
+                            macro avg       0.56      0.52      0.53      1805
+                         weighted avg       0.59      0.58      0.58      1805
+                          samples avg       0.60      0.61      0.58      1805

@@ -1,0 +1,1204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:metadata="http://example.org/metacovid/metadata/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/3250">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC24:_Social_Relations_&amp;_Community_Dynamics"/>
+    <rdfs:label>human relations</rdfs:label>
+    <metadata:id>3250</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/3250</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5544266">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC29:_Vaccination_&amp;_Immunology"/>
+    <rdfs:label>COVID-19 breakthrough infections</rdfs:label>
+    <metadata:id>C5544266</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0683634">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC2:_Business_Impact_&amp;_Sector-specific_Challenges"/>
+    <rdfs:label>business-society relations</rdfs:label>
+    <metadata:id>C0683634</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C3494174">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC1:_Agriculture,_Food,_&amp;_Sustainability"/>
+    <rdfs:label>Food Insecurity</rdfs:label>
+    <metadata:id>C3494174</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/3139">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC9:_Environment_&amp;_Climate"/>
+    <rdfs:label>environmental impact</rdfs:label>
+    <metadata:id>3139</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/3139</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C1519773">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC12:_Gender_&amp;_Minority_Groups"/>
+    <rdfs:label>Underrepresented Minority</rdfs:label>
+    <metadata:id>C1519773</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5444769">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC15:_Labor_&amp;_Employment_Dynamics"/>
+    <rdfs:label>Household job or income loss due to the COVID-19 outbreak</rdfs:label>
+    <metadata:id>C5444769</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/c_814bb9e4">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC21:_Public_Health_&amp;_Preventative_Measures"/>
+    <rdfs:label>coronavirus disease</rdfs:label>
+    <metadata:id>c_814bb9e4</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/c_814bb9e4</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0282166">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC9:_Environment_&amp;_Climate"/>
+    <rdfs:label>Environmental Policy</rdfs:label>
+    <metadata:id>C0282166</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/CAP/333">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC18:_Mental_Health_&amp;_Psychological_Well-being"/>
+    <rdf:type rdf:resource="http://example.org/metacovid/MC24:_Social_Relations_&amp;_Community_Dynamics"/>
+    <rdfs:label>Mental_Health</rdfs:label>
+    <metadata:code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</metadata:code>
+    <metadata:sub_code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">333</metadata:sub_code>
+    <metadata:category>Health</metadata:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/c_cef8ea9d">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC20:_Political_Implications_&amp;_Governance"/>
+    <rdfs:label>regulatory policy</rdfs:label>
+    <metadata:id>c_cef8ea9d</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/c_cef8ea9d</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C1549626">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC2:_Business_Impact_&amp;_Sector-specific_Challenges"/>
+    <rdfs:label>Firm/Business</rdfs:label>
+    <metadata:id>C1549626</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C1517474">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC12:_Gender_&amp;_Minority_Groups"/>
+    <rdfs:label>Gender/Minority Enrollment</rdfs:label>
+    <metadata:id>C1517474</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/1996">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC5:_Consumer_Behavior_&amp;_Lifestyle_Changes"/>
+    <rdfs:label>consumer motivation</rdfs:label>
+    <metadata:id>1996</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/1996</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5244039">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC26:_Testing,_Tracing_&amp;_Monitoring"/>
+    <rdfs:label>COVID-19 PCR test</rdfs:label>
+    <metadata:id>C5244039</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/CAP/1599">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC5:_Consumer_Behavior_&amp;_Lifestyle_Changes"/>
+    <rdfs:label>Other</rdfs:label>
+    <metadata:code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">15</metadata:code>
+    <metadata:sub_code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1599</metadata:sub_code>
+    <metadata:category>Domestic_Commerce</metadata:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C1113679">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC23:_Safety_&amp;_Security_Protocols"/>
+    <rdfs:label>patient safety</rdfs:label>
+    <metadata:id>C1113679</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/CAP/331">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC3:_Clinical_Treatment_&amp;_Hospital_Care"/>
+    <rdf:type rdf:resource="http://example.org/metacovid/MC10:_Epidemiology_&amp;_Virus_Transmission"/>
+    <rdf:type rdf:resource="http://example.org/metacovid/MC21:_Public_Health_&amp;_Preventative_Measures"/>
+    <rdf:type rdf:resource="http://example.org/metacovid/MC26:_Testing,_Tracing_&amp;_Monitoring"/>
+    <rdfs:label>Disease_Prevention</rdfs:label>
+    <metadata:code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</metadata:code>
+    <metadata:sub_code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">331</metadata:sub_code>
+    <metadata:category>Health</metadata:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0021788">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC14:_International_Collaboration_&amp;_Global_Initiatives"/>
+    <rdfs:label>International Health Problems</rdfs:label>
+    <metadata:id>C0021788</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5392164">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC26:_Testing,_Tracing_&amp;_Monitoring"/>
+    <rdfs:label>COVID-19 RT-PCR Testing</rdfs:label>
+    <metadata:id>C5392164</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5555089">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC3:_Clinical_Treatment_&amp;_Hospital_Care"/>
+    <rdfs:label>Time from COVID-19 Symptom Onset to Hospitalization</rdfs:label>
+    <metadata:id>C5555089</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0018719">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC20:_Political_Implications_&amp;_Governance"/>
+    <rdfs:label>Health Legislation</rdfs:label>
+    <metadata:id>C0018719</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C3178753">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC1:_Agriculture,_Food,_&amp;_Sustainability"/>
+    <rdfs:label>Food Security</rdfs:label>
+    <metadata:id>C3178753</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/MC7:_Digital_Transformation_&amp;_Technology">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>MC7: Digital Transformation &amp; Technology</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/CAP/1900">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC14:_International_Collaboration_&amp;_Global_Initiatives"/>
+    <rdfs:label>General</rdfs:label>
+    <metadata:code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">19</metadata:code>
+    <metadata:sub_code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1900</metadata:sub_code>
+    <metadata:category>International_Affairs</metadata:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0679931">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC8:_Economic_Impact_&amp;_Recovery"/>
+    <rdfs:label>health care cost containment</rdfs:label>
+    <metadata:id>C0679931</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C1136380">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC11:_Ethics_of_Healthcare_&amp;_Treatment"/>
+    <rdfs:label>Ethics, Hospital</rdfs:label>
+    <metadata:id>C1136380</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5419655">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC27:_Travel,_Transportation_&amp;_Mobility"/>
+    <rdfs:label>Disruption to Therapy Because Patient's Travel Restricted Due to COVID-19</rdfs:label>
+    <metadata:id>C5419655</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/1304">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC29:_Vaccination_&amp;_Immunology"/>
+    <rdfs:label>immunology</rdfs:label>
+    <metadata:id>1304</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/1304</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/MC30:_Youth,_Education_&amp;_Learning">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>MC30: Youth, Education &amp; Learning</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/CAP/1705">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC4:_Communication_&amp;_Information_Dissemination"/>
+    <rdfs:label>Science_Transfer</rdfs:label>
+    <metadata:code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">17</metadata:code>
+    <metadata:sub_code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1705</metadata:sub_code>
+    <metadata:category>Technology</metadata:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/CAP/401">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC1:_Agriculture,_Food,_&amp;_Sustainability"/>
+    <rdfs:label>Trade</rdfs:label>
+    <metadata:code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</metadata:code>
+    <metadata:sub_code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">401</metadata:sub_code>
+    <metadata:category>Agriculture</metadata:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/MC23:_Safety_&amp;_Security_Protocols">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>MC23: Safety &amp; Security Protocols</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C1510583">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC7:_Digital_Transformation_&amp;_Technology"/>
+    <rdfs:label>Teleworking</rdfs:label>
+    <metadata:id>C1510583</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/2640">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC1:_Agriculture,_Food,_&amp;_Sustainability"/>
+    <rdfs:label>food price</rdfs:label>
+    <metadata:id>2640</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/2640</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0814529">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC8:_Economic_Impact_&amp;_Recovery"/>
+    <rdfs:label>health care cost-effectiveness</rdfs:label>
+    <metadata:id>C0814529</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0015005">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC11:_Ethics_of_Healthcare_&amp;_Treatment"/>
+    <rdfs:label>Ethics, Nursing</rdfs:label>
+    <metadata:id>C0015005</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/MC14:_International_Collaboration_&amp;_Global_Initiatives">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>MC14: International Collaboration &amp; Global Initiatives</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/CAP/201">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC12:_Gender_&amp;_Minority_Groups"/>
+    <rdfs:label>Minority_Discrimination</rdfs:label>
+    <metadata:code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</metadata:code>
+    <metadata:sub_code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">201</metadata:sub_code>
+    <metadata:category>Civil_Rights</metadata:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/CAP/1798">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC22:_Research,_Innovation_&amp;_Development"/>
+    <rdfs:label>R&amp;D</rdfs:label>
+    <metadata:code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">17</metadata:code>
+    <metadata:sub_code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1798</metadata:sub_code>
+    <metadata:category>Technology</metadata:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0021790">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC19:_Migration_&amp;_Movement_Patterns"/>
+    <rdfs:label>International Migration</rdfs:label>
+    <metadata:id>C0021790</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0683635">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC2:_Business_Impact_&amp;_Sector-specific_Challenges"/>
+    <rdfs:label>business-government relations</rdfs:label>
+    <metadata:id>C0683635</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0686732">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC9:_Environment_&amp;_Climate"/>
+    <rdfs:label>Environmental risk factor</rdfs:label>
+    <metadata:id>C0686732</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C1955955">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC12:_Gender_&amp;_Minority_Groups"/>
+    <rdfs:label>Minority Health</rdfs:label>
+    <metadata:id>C1955955</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/3919">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC30:_Youth,_Education_&amp;_Learning"/>
+    <rdfs:label>child protection</rdfs:label>
+    <metadata:id>3919</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/3919</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/MC29:_Vaccination_&amp;_Immunology">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>MC29: Vaccination &amp; Immunology</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/2923">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC22:_Research,_Innovation_&amp;_Development"/>
+    <rdfs:label>medical research</rdfs:label>
+    <metadata:id>2923</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/2923</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5392063">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC16:_Legal_&amp;_Human_Rights"/>
+    <rdfs:label>Freedom of Movement</rdfs:label>
+    <metadata:id>C5392063</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/CAP/900">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC19:_Migration_&amp;_Movement_Patterns"/>
+    <rdfs:label>Immigration</rdfs:label>
+    <metadata:code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">9</metadata:code>
+    <metadata:sub_code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">900</metadata:sub_code>
+    <metadata:category>Immigration</metadata:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/CAP/1523">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC2:_Business_Impact_&amp;_Sector-specific_Challenges"/>
+    <rdfs:label>Disaster_Relief</rdfs:label>
+    <metadata:code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">15</metadata:code>
+    <metadata:sub_code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1523</metadata:sub_code>
+    <metadata:category>Domestic_Commerce</metadata:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5574744">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC15:_Labor_&amp;_Employment_Dynamics"/>
+    <rdfs:label>Workplace Environment</rdfs:label>
+    <metadata:id>C5574744</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5708288">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC29:_Vaccination_&amp;_Immunology"/>
+    <rdfs:label>COVID-19 Vaccine Hesitancy</rdfs:label>
+    <metadata:id>C5708288</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5546752">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC24:_Social_Relations_&amp;_Community_Dynamics"/>
+    <rdfs:label>Compliance behavior to social norm</rdfs:label>
+    <metadata:id>C5546752</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/454">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC12:_Gender_&amp;_Minority_Groups"/>
+    <rdfs:label>sexual discrimination</rdfs:label>
+    <metadata:id>454</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/454</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/4039">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC15:_Labor_&amp;_Employment_Dynamics"/>
+    <rdfs:label>occupational safety</rdfs:label>
+    <metadata:id>4039</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/4039</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0037421">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC18:_Mental_Health_&amp;_Psychological_Well-being"/>
+    <rdf:type rdf:resource="http://example.org/metacovid/MC24:_Social_Relations_&amp;_Community_Dynamics"/>
+    <rdfs:label>Social isolation</rdfs:label>
+    <metadata:id>C0037421</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5444292">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC30:_Youth,_Education_&amp;_Learning"/>
+    <rdfs:label>School has offered classes remotely during the COVID-19 outbreak</rdfs:label>
+    <metadata:id>C5444292</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5690876">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC27:_Travel,_Transportation_&amp;_Mobility"/>
+    <rdfs:label>Travel Restriction, Health</rdfs:label>
+    <metadata:id>C5690876</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/5878">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC18:_Mental_Health_&amp;_Psychological_Well-being"/>
+    <rdfs:label>mental health</rdfs:label>
+    <metadata:id>5878</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/5878</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5451831">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC15:_Labor_&amp;_Employment_Dynamics"/>
+    <rdfs:label>Person who lost job or income due to COVID-19 outbreak</rdfs:label>
+    <metadata:id>C5451831</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C4505330">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC27:_Travel,_Transportation_&amp;_Mobility"/>
+    <rdfs:label>Travel-Related Illness</rdfs:label>
+    <metadata:id>C4505330</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/1256">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC3:_Clinical_Treatment_&amp;_Hospital_Care"/>
+    <rdfs:label>psychiatric institution</rdfs:label>
+    <metadata:id>1256</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/1256</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C1519775">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC28:_Urban_&amp;_Rural_Dynamics"/>
+    <rdfs:label>Underserved, Rural Health</rdfs:label>
+    <metadata:id>C1519775</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0680538">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC12:_Gender_&amp;_Minority_Groups"/>
+    <rdfs:label>Minority Rights</rdfs:label>
+    <metadata:id>C0680538</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/216">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC14:_International_Collaboration_&amp;_Global_Initiatives"/>
+    <rdfs:label>international cooperation</rdfs:label>
+    <metadata:id>216</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/216</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5554007">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC5:_Consumer_Behavior_&amp;_Lifestyle_Changes"/>
+    <rdf:type rdf:resource="http://example.org/metacovid/MC18:_Mental_Health_&amp;_Psychological_Well-being"/>
+    <rdfs:label>Lockdown fatigue</rdfs:label>
+    <metadata:id>C5554007</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0680967">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC5:_Consumer_Behavior_&amp;_Lifestyle_Changes"/>
+    <rdfs:label>Consumer Behavior</rdfs:label>
+    <metadata:id>C0680967</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C1279750">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC7:_Digital_Transformation_&amp;_Technology"/>
+    <rdfs:label>Respecting the client's privacy</rdfs:label>
+    <metadata:id>C1279750</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/4635">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC22:_Research,_Innovation_&amp;_Development"/>
+    <rdf:type rdf:resource="http://example.org/metacovid/MC29:_Vaccination_&amp;_Immunology"/>
+    <rdfs:label>vaccine</rdfs:label>
+    <metadata:id>4635</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/4635</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/3368">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC3:_Clinical_Treatment_&amp;_Hospital_Care"/>
+    <rdfs:label>hospitalisation</rdfs:label>
+    <metadata:id>3368</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/3368</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0037400">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC24:_Social_Relations_&amp;_Community_Dynamics"/>
+    <rdfs:label>Social Change</rdfs:label>
+    <metadata:id>C0037400</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/MC16:_Legal_&amp;_Human_Rights">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>MC16: Legal &amp; Human Rights</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/MC21:_Public_Health_&amp;_Preventative_Measures">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>MC21: Public Health &amp; Preventative Measures</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/3300">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC28:_Urban_&amp;_Rural_Dynamics"/>
+    <rdfs:label>geographical distribution of the population</rdfs:label>
+    <metadata:id>3300</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/3300</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/CAP/Metadata">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <metadata:Resource_name>Comparative Agendas Project (CAP): Master Topics Codebook</metadata:Resource_name>
+    <metadata:Release>Version 1.1</metadata:Release>
+    <metadata:URL>https://www.comparativeagendas.net/pages/master-codebook</metadata:URL>
+    <metadata:Description>Observations in Comparative Agendas Project datasets are coded according to the guidelines and topic system described below. This codebook is an updated version of the original codebook created by Baumgartner and Jones.  Each entry is coded into one of 21 major topics and 220 subtopics.  In this codebook, we provide a series of general coding guidelines for classifying observations, a complete list of all major topics and subtopics, and examples of cases coded in each subtopic. Users should note that not all the topic and subtopic numbers are consecutive and that the coding system is hierarchal: each subtopic falls within a single major topic.  Analysts concerned with identifying each case dealing with a particular issue may want to use care in also examining the textual summaries for cases in related subtopics and in the general subtopic, since these can include cases that discuss multiple subtopics.</metadata:Description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/Metadata">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <metadata:Resource_name>EuroVoc</metadata:Resource_name>
+    <metadata:Version>20230705-0</metadata:Version>
+    <metadata:URL>https://op.europa.eu/en/web/eu-vocabularies/dataset/-/resource?uri=http://publications.europa.eu/resource/dataset/eurovoc</metadata:URL>
+    <metadata:Description>EuroVoc is a multilingual, multidisciplinary thesaurus covering the activities of the EU. It contains terms in 24 EU languages (Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish and Swedish), plus in three languages of countries which are candidate for EU accession: Albanian, Macedonian and Serbian. EuroVoc is managed by the Publications Office of the European Union, which moved forward to ontology-based thesaurus management and semantic web technologies conformant to W3C recommendations as well as latest trends in thesaurus standards. EuroVoc users include the European Union institutions, the Publications Office of the EU, national and regional parliaments in Europe, plus national governments and private users around the world.</metadata:Description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/MC6:_Defense_&amp;_National_Security">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>MC6: Defense &amp; National Security</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/CAP/2000">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC13:_Government_Policy_&amp;_Response"/>
+    <rdfs:label>General</rdfs:label>
+    <metadata:code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</metadata:code>
+    <metadata:sub_code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2000</metadata:sub_code>
+    <metadata:category>Government_Operations</metadata:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/CAP/700">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC9:_Environment_&amp;_Climate"/>
+    <rdfs:label>General</rdfs:label>
+    <metadata:code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7</metadata:code>
+    <metadata:sub_code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">700</metadata:sub_code>
+    <metadata:category>Environment</metadata:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C4704699">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC14:_International_Collaboration_&amp;_Global_Initiatives"/>
+    <rdfs:label>International Health Regulations</rdfs:label>
+    <metadata:id>C4704699</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/MC15:_Labor_&amp;_Employment_Dynamics">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>MC15: Labor &amp; Employment Dynamics</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/CAP/1615">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC6:_Defense_&amp;_National_Security"/>
+    <rdfs:label>Civil</rdfs:label>
+    <metadata:code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">16</metadata:code>
+    <metadata:sub_code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1615</metadata:sub_code>
+    <metadata:category>Defense</metadata:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5420382">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC10:_Epidemiology_&amp;_Virus_Transmission"/>
+    <rdfs:label>Infection Fatality Rate</rdfs:label>
+    <metadata:id>C5420382</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/779">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC30:_Youth,_Education_&amp;_Learning"/>
+    <rdfs:label>distance learning</rdfs:label>
+    <metadata:id>779</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/779</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/3885">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC21:_Public_Health_&amp;_Preventative_Measures"/>
+    <rdfs:label>public health</rdfs:label>
+    <metadata:id>3885</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/3885</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0009449">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC13:_Government_Policy_&amp;_Response"/>
+    <rdfs:label>Communicable Disease Control</rdfs:label>
+    <metadata:id>C0009449</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5392135">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC21:_Public_Health_&amp;_Preventative_Measures"/>
+    <rdfs:label>Physical Distancing</rdfs:label>
+    <metadata:id>C5392135</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/5169">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC11:_Ethics_of_Healthcare_&amp;_Treatment"/>
+    <rdfs:label>bio-ethics</rdfs:label>
+    <metadata:id>5169</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/5169</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5244063">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC26:_Testing,_Tracing_&amp;_Monitoring"/>
+    <rdfs:label>COVID-19 ELISA test</rdfs:label>
+    <metadata:id>C5244063</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/MC27:_Travel,_Transportation_&amp;_Mobility">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>MC27: Travel, Transportation &amp; Mobility</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5552228">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC1:_Agriculture,_Food,_&amp;_Sustainability"/>
+    <rdfs:label>Received or applied for assistance from a food pantry since the beginning of the pandemic</rdfs:label>
+    <metadata:id>C5552228</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/c_57f3c49f">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC6:_Defense_&amp;_National_Security"/>
+    <rdfs:label>critical infrastructure security</rdfs:label>
+    <metadata:id>c_57f3c49f</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/c_57f3c49f</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/CAP/208">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC16:_Legal_&amp;_Human_Rights"/>
+    <rdfs:label>Right_to_Privacy</rdfs:label>
+    <metadata:code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</metadata:code>
+    <metadata:sub_code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">208</metadata:sub_code>
+    <metadata:category>Civil_Rights</metadata:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/CAP/322">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC3:_Clinical_Treatment_&amp;_Hospital_Care"/>
+    <rdfs:label>Medical_Facilities</rdfs:label>
+    <metadata:code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</metadata:code>
+    <metadata:sub_code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">322</metadata:sub_code>
+    <metadata:category>Health</metadata:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/CAP/600">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC30:_Youth,_Education_&amp;_Learning"/>
+    <rdfs:label>General</rdfs:label>
+    <metadata:code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</metadata:code>
+    <metadata:sub_code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">600</metadata:sub_code>
+    <metadata:category>Education</metadata:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/MC11:_Ethics_of_Healthcare_&amp;_Treatment">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>MC11: Ethics of Healthcare &amp; Treatment</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5708295">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC10:_Epidemiology_&amp;_Virus_Transmission"/>
+    <rdfs:label>COVID-19 Pandemic Behaviors</rdfs:label>
+    <metadata:id>C5708295</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/2318">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC1:_Agriculture,_Food,_&amp;_Sustainability"/>
+    <rdfs:label>food shortage</rdfs:label>
+    <metadata:id>2318</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/2318</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0085552">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC8:_Economic_Impact_&amp;_Recovery"/>
+    <rdfs:label>Health Care Costs</rdfs:label>
+    <metadata:id>C0085552</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/3160">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC27:_Travel,_Transportation_&amp;_Mobility"/>
+    <rdfs:label>transport regulations</rdfs:label>
+    <metadata:id>3160</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/3160</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C1720906">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC9:_Environment_&amp;_Climate"/>
+    <rdfs:label>Environmental Restoration</rdfs:label>
+    <metadata:id>C1720906</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0028801">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC15:_Labor_&amp;_Employment_Dynamics"/>
+    <rdfs:label>Occupational Health Services</rdfs:label>
+    <metadata:id>C0028801</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/MC18:_Mental_Health_&amp;_Psychological_Well-being">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>MC18: Mental Health &amp; Psychological Well-being</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/CAP/2002">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC20:_Political_Implications_&amp;_Governance"/>
+    <rdfs:label>Bureaucracy</rdfs:label>
+    <metadata:code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</metadata:code>
+    <metadata:sub_code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2002</metadata:sub_code>
+    <metadata:category>Government_Operations</metadata:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5197740">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC16:_Legal_&amp;_Human_Rights"/>
+    <rdfs:label>Right to Health</rdfs:label>
+    <metadata:id>C5197740</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0079161">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC7:_Digital_Transformation_&amp;_Technology"/>
+    <rdf:type rdf:resource="http://example.org/metacovid/MC26:_Testing,_Tracing_&amp;_Monitoring"/>
+    <rdfs:label>Infectious Disease Contact Tracing</rdfs:label>
+    <metadata:id>C0079161</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5708287">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC29:_Vaccination_&amp;_Immunology"/>
+    <rdfs:label>COVID-19 Vaccine Knowledge</rdfs:label>
+    <metadata:id>C5708287</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C4709388">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC25:_Supply_Chain_&amp;_Logistics"/>
+    <rdfs:label>Supply Chain Management</rdfs:label>
+    <metadata:id>C4709388</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/5793">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC17:_Media,_Public_Perception_&amp;_Culture"/>
+    <rdfs:label>pluralism in the media</rdfs:label>
+    <metadata:id>5793</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/5793</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/1942">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC12:_Gender_&amp;_Minority_Groups"/>
+    <rdfs:label>sexual minority</rdfs:label>
+    <metadata:id>1942</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/1942</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0016491">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC1:_Agriculture,_Food,_&amp;_Sustainability"/>
+    <rdfs:label>Food Supply</rdfs:label>
+    <metadata:id>C0016491</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5708290">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC29:_Vaccination_&amp;_Immunology"/>
+    <rdfs:label>COVID-19 Vaccine Confidence</rdfs:label>
+    <metadata:id>C5708290</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/2828">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC16:_Legal_&amp;_Human_Rights"/>
+    <rdfs:label>protection of privacy</rdfs:label>
+    <metadata:id>2828</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/2828</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0026192">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC12:_Gender_&amp;_Minority_Groups"/>
+    <rdfs:label>Minority Groups</rdfs:label>
+    <metadata:id>C0026192</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0012683">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC23:_Safety_&amp;_Security_Protocols"/>
+    <rdfs:label>Disinfection</rdfs:label>
+    <metadata:id>C0012683</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0035959">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC28:_Urban_&amp;_Rural_Dynamics"/>
+    <rdfs:label>rural health</rdfs:label>
+    <metadata:id>C0035959</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0041933">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC28:_Urban_&amp;_Rural_Dynamics"/>
+    <rdfs:label>Urban Health</rdfs:label>
+    <metadata:id>C0041933</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5244064">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC26:_Testing,_Tracing_&amp;_Monitoring"/>
+    <rdfs:label>COVID-19 Antibody Testing</rdfs:label>
+    <metadata:id>C5244064</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/CAP/505">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC15:_Labor_&amp;_Employment_Dynamics"/>
+    <rdfs:label>Fair_Labor_Standards</rdfs:label>
+    <metadata:code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5</metadata:code>
+    <metadata:sub_code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">505</metadata:sub_code>
+    <metadata:category>Labor</metadata:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/6897">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC20:_Political_Implications_&amp;_Governance"/>
+    <rdfs:label>governance</rdfs:label>
+    <metadata:id>6897</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/6897</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5391449">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC3:_Clinical_Treatment_&amp;_Hospital_Care"/>
+    <rdfs:label>COVID-19 Convalescent Serum Treatment</rdfs:label>
+    <metadata:id>C5391449</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0282165">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC9:_Environment_&amp;_Climate"/>
+    <rdfs:label>Impacts, Environmental</rdfs:label>
+    <metadata:id>C0282165</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C1512347">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC4:_Communication_&amp;_Information_Dissemination"/>
+    <rdfs:label>Health Communication</rdfs:label>
+    <metadata:id>C1512347</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5700162">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC11:_Ethics_of_Healthcare_&amp;_Treatment"/>
+    <rdfs:label>Biomedical Ethics</rdfs:label>
+    <metadata:id>C5700162</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C1135927">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC10:_Epidemiology_&amp;_Virus_Transmission"/>
+    <rdfs:label>Immunity, Herd</rdfs:label>
+    <metadata:id>C1135927</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5444475">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC4:_Communication_&amp;_Information_Dissemination"/>
+    <rdf:type rdf:resource="http://example.org/metacovid/MC17:_Media,_Public_Perception_&amp;_Culture"/>
+    <rdfs:label>How often social media used as source of information for COVID-19</rdfs:label>
+    <metadata:id>C5444475</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0262699">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC13:_Government_Policy_&amp;_Response"/>
+    <rdfs:label>Health policy monitoring</rdfs:label>
+    <metadata:id>C0262699</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5400806">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC29:_Vaccination_&amp;_Immunology"/>
+    <rdfs:label>COVID-19 VACCINE</rdfs:label>
+    <metadata:id>C5400806</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/CAP/1200">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC23:_Safety_&amp;_Security_Protocols"/>
+    <rdfs:label>General</rdfs:label>
+    <metadata:code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">12</metadata:code>
+    <metadata:sub_code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1200</metadata:sub_code>
+    <metadata:category>Law_and_Crime</metadata:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/c_b18ab65c">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC25:_Supply_Chain_&amp;_Logistics"/>
+    <rdfs:label>supply chain</rdfs:label>
+    <metadata:id>c_b18ab65c</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/c_b18ab65c</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/838">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC10:_Epidemiology_&amp;_Virus_Transmission"/>
+    <rdfs:label>epidemiology</rdfs:label>
+    <metadata:id>838</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/838</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/CAP/325">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC3:_Clinical_Treatment_&amp;_Hospital_Care"/>
+    <rdfs:label>Manpower</rdfs:label>
+    <metadata:code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</metadata:code>
+    <metadata:sub_code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">325</metadata:sub_code>
+    <metadata:category>Health</metadata:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/MC1:_Agriculture,_Food,_&amp;_Sustainability">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>MC1: Agriculture, Food, &amp; Sustainability</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0037420">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC24:_Social_Relations_&amp;_Community_Dynamics"/>
+    <rdfs:label>Social Interaction</rdfs:label>
+    <metadata:id>C0037420</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/CAP/1706">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC7:_Digital_Transformation_&amp;_Technology"/>
+    <rdf:type rdf:resource="http://example.org/metacovid/MC17:_Media,_Public_Perception_&amp;_Culture"/>
+    <rdfs:label>Telecommunications</rdfs:label>
+    <metadata:code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">17</metadata:code>
+    <metadata:sub_code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1706</metadata:sub_code>
+    <metadata:category>Technology</metadata:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/3086">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC2:_Business_Impact_&amp;_Sector-specific_Challenges"/>
+    <rdf:type rdf:resource="http://example.org/metacovid/MC8:_Economic_Impact_&amp;_Recovery"/>
+    <rdfs:label>economic consequence</rdfs:label>
+    <metadata:id>3086</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/3086</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0034982">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC20:_Political_Implications_&amp;_Governance"/>
+    <rdfs:label>Government regulations</rdfs:label>
+    <metadata:id>C0034982</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5440893">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC21:_Public_Health_&amp;_Preventative_Measures"/>
+    <rdfs:label>Performs social distancing</rdfs:label>
+    <metadata:id>C5440893</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0178673">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC8:_Economic_Impact_&amp;_Recovery"/>
+    <rdfs:label>health care financing</rdfs:label>
+    <metadata:id>C0178673</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0425099">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC2:_Business_Impact_&amp;_Sector-specific_Challenges"/>
+    <rdfs:label>Business worries</rdfs:label>
+    <metadata:id>C0425099</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/CAP/100">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC8:_Economic_Impact_&amp;_Recovery"/>
+    <rdfs:label>General</rdfs:label>
+    <metadata:code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</metadata:code>
+    <metadata:sub_code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">100</metadata:sub_code>
+    <metadata:category>Macroeconomics</metadata:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0015006">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC11:_Ethics_of_Healthcare_&amp;_Treatment"/>
+    <rdfs:label>Ethics, Pharmacy</rdfs:label>
+    <metadata:id>C0015006</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5244026">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC26:_Testing,_Tracing_&amp;_Monitoring"/>
+    <rdfs:label>COVID-19 Testing</rdfs:label>
+    <metadata:id>C5244026</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/CAP/1707">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC17:_Media,_Public_Perception_&amp;_Culture"/>
+    <rdfs:label>Broadcast</rdfs:label>
+    <metadata:code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">17</metadata:code>
+    <metadata:sub_code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1707</metadata:sub_code>
+    <metadata:category>Technology</metadata:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5444451">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC17:_Media,_Public_Perception_&amp;_Culture"/>
+    <rdfs:label>Effect of social media (e.g., TikTok, Reddit) as source of information on mental health</rdfs:label>
+    <metadata:id>C5444451</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5690768">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC3:_Clinical_Treatment_&amp;_Hospital_Care"/>
+    <rdfs:label>COVID-19 Drug Treatment</rdfs:label>
+    <metadata:id>C5690768</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/MC19:_Migration_&amp;_Movement_Patterns">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>MC19: Migration &amp; Movement Patterns</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0162365">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC11:_Ethics_of_Healthcare_&amp;_Treatment"/>
+    <rdfs:label>Ethics, Clinical</rdfs:label>
+    <metadata:id>C0162365</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0035961">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC28:_Urban_&amp;_Rural_Dynamics"/>
+    <rdfs:label>Rural Health Services</rdfs:label>
+    <metadata:id>C0035961</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5235899">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC12:_Gender_&amp;_Minority_Groups"/>
+    <rdfs:label>Minority Health Research</rdfs:label>
+    <metadata:id>C5235899</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/1924">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC28:_Urban_&amp;_Rural_Dynamics"/>
+    <rdfs:label>migration from the countryside to the town</rdfs:label>
+    <metadata:id>1924</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/1924</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5391534">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC30:_Youth,_Education_&amp;_Learning"/>
+    <rdfs:label>multisystem inflammatory syndrome in children with COVID-19 infection</rdfs:label>
+    <metadata:id>C5391534</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0555001">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC2:_Business_Impact_&amp;_Sector-specific_Challenges"/>
+    <rdfs:label>Business ceased - financial</rdfs:label>
+    <metadata:id>C0555001</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/MC17:_Media,_Public_Perception_&amp;_Culture">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>MC17: Media, Public Perception &amp; Culture</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/MC8:_Economic_Impact_&amp;_Recovery">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>MC8: Economic Impact &amp; Recovery</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0680614">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC2:_Business_Impact_&amp;_Sector-specific_Challenges"/>
+    <rdfs:label>business law</rdfs:label>
+    <metadata:id>C0680614</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5392141">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC10:_Epidemiology_&amp;_Virus_Transmission"/>
+    <rdf:type rdf:resource="http://example.org/metacovid/MC14:_International_Collaboration_&amp;_Global_Initiatives"/>
+    <rdfs:label>COVID-19 Pandemic</rdfs:label>
+    <metadata:id>C5392141</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5401450">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC21:_Public_Health_&amp;_Preventative_Measures"/>
+    <rdfs:label>Protective Face Mask</rdfs:label>
+    <metadata:id>C5401450</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/CAP/1401">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC28:_Urban_&amp;_Rural_Dynamics"/>
+    <rdfs:label>Community_Development</rdfs:label>
+    <metadata:code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">14</metadata:code>
+    <metadata:sub_code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1401</metadata:sub_code>
+    <metadata:category>Housing</metadata:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5400419">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC26:_Testing,_Tracing_&amp;_Monitoring"/>
+    <rdfs:label>COVID-19 antigen test</rdfs:label>
+    <metadata:id>C5400419</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C3824686">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC17:_Media,_Public_Perception_&amp;_Culture"/>
+    <rdfs:label>Social media in medicine</rdfs:label>
+    <metadata:id>C3824686</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5419662">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC27:_Travel,_Transportation_&amp;_Mobility"/>
+    <rdfs:label>Unknown Status Due to COVID-19-Related Travel Restrictions</rdfs:label>
+    <metadata:id>C5419662</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/837">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC10:_Epidemiology_&amp;_Virus_Transmission"/>
+    <rdfs:label>epidemic</rdfs:label>
+    <metadata:id>837</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/837</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0282603">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC28:_Urban_&amp;_Rural_Dynamics"/>
+    <rdfs:label>Urban Health Services</rdfs:label>
+    <metadata:id>C0282603</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/MC28:_Urban_&amp;_Rural_Dynamics">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>MC28: Urban &amp; Rural Dynamics</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5574378">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC27:_Travel,_Transportation_&amp;_Mobility"/>
+    <rdfs:label>Transportation insecurity due to unsafe transportation environment</rdfs:label>
+    <metadata:id>C5574378</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/MC5:_Consumer_Behavior_&amp;_Lifestyle_Changes">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>MC5: Consumer Behavior &amp; Lifestyle Changes</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/CAP/301">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC11:_Ethics_of_Healthcare_&amp;_Treatment"/>
+    <rdfs:label>Health_Care_Reform</rdfs:label>
+    <metadata:code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</metadata:code>
+    <metadata:sub_code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">301</metadata:sub_code>
+    <metadata:category>Health</metadata:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/CAP/1000">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC25:_Supply_Chain_&amp;_Logistics"/>
+    <rdf:type rdf:resource="http://example.org/metacovid/MC27:_Travel,_Transportation_&amp;_Mobility"/>
+    <rdfs:label>General</rdfs:label>
+    <metadata:code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">10</metadata:code>
+    <metadata:sub_code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1000</metadata:sub_code>
+    <metadata:category>Transportation</metadata:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C4505477">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC30:_Youth,_Education_&amp;_Learning"/>
+    <rdfs:label>Online Learning</rdfs:label>
+    <metadata:id>C4505477</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/MC12:_Gender_&amp;_Minority_Groups">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>MC12: Gender &amp; Minority Groups</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5244048">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC3:_Clinical_Treatment_&amp;_Hospital_Care"/>
+    <rdfs:label>COVID-19 treatment</rdfs:label>
+    <metadata:id>C5244048</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0018735">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC13:_Government_Policy_&amp;_Response"/>
+    <rdfs:label>Health Policy</rdfs:label>
+    <metadata:id>C0018735</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/Metadata">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <metadata:Resource_name>Unified Medical Language System (UMLS) Metathesaurus</metadata:Resource_name>
+    <metadata:Version>2023AA</metadata:Version>
+    <metadata:URL>https://www.nlm.nih.gov/research/umls</metadata:URL>
+    <metadata:Description>The UMLS Metathesaurus is a large biomedical thesaurus that is organized by concept, or meaning. It links synonymous names from over 200 different source vocabularies. The Metathesaurus also identifies useful relationships between concepts and preserves the meanings, concept names, and relationships from each vocabulary.</metadata:Description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0034386">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC13:_Government_Policy_&amp;_Response"/>
+    <rdfs:label>Quarantine</rdfs:label>
+    <metadata:id>C0034386</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C3889004">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC25:_Supply_Chain_&amp;_Logistics"/>
+    <rdfs:label>Drug supply chain interruption</rdfs:label>
+    <metadata:id>C3889004</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/CAP/501">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC15:_Labor_&amp;_Employment_Dynamics"/>
+    <rdfs:label>Worker_Safety</rdfs:label>
+    <metadata:code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5</metadata:code>
+    <metadata:sub_code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">501</metadata:sub_code>
+    <metadata:category>Labor</metadata:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/MC2:_Business_Impact_&amp;_Sector-specific_Challenges">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>MC2: Business Impact &amp; Sector-specific Challenges</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0204951">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC21:_Public_Health_&amp;_Preventative_Measures"/>
+    <rdf:type rdf:resource="http://example.org/metacovid/MC23:_Safety_&amp;_Security_Protocols"/>
+    <rdfs:label>Infection prevention education</rdfs:label>
+    <metadata:id>C0204951</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/2506">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC13:_Government_Policy_&amp;_Response"/>
+    <rdfs:label>government policy</rdfs:label>
+    <metadata:id>2506</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/2506</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0079816">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC22:_Research,_Innovation_&amp;_Development"/>
+    <rdfs:label>Medical Research activity</rdfs:label>
+    <metadata:id>C0079816</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/3400">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC8:_Economic_Impact_&amp;_Recovery"/>
+    <rdfs:label>economic recovery</rdfs:label>
+    <metadata:id>3400</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/3400</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5444143">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC15:_Labor_&amp;_Employment_Dynamics"/>
+    <rdfs:label>Job loss during the COVID-19 outbreak</rdfs:label>
+    <metadata:id>C5444143</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/MC3:_Clinical_Treatment_&amp;_Hospital_Care">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>MC3: Clinical Treatment &amp; Hospital Care</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/CAP/202">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC12:_Gender_&amp;_Minority_Groups"/>
+    <rdfs:label>Gender_Discrimination</rdfs:label>
+    <metadata:code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</metadata:code>
+    <metadata:sub_code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">202</metadata:sub_code>
+    <metadata:category>Civil_Rights</metadata:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C1456573">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC14:_International_Collaboration_&amp;_Global_Initiatives"/>
+    <rdfs:label>Global Health</rdfs:label>
+    <metadata:id>C1456573</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C3826016">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC16:_Legal_&amp;_Human_Rights"/>
+    <rdfs:label>Medical laws and legislation</rdfs:label>
+    <metadata:id>C3826016</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/3488">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC1:_Agriculture,_Food,_&amp;_Sustainability"/>
+    <rdfs:label>self-sufficiency in food</rdfs:label>
+    <metadata:id>3488</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/3488</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5391451">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC3:_Clinical_Treatment_&amp;_Hospital_Care"/>
+    <rdfs:label>COVID-19 Convalescent Plasma Treatment</rdfs:label>
+    <metadata:id>C5391451</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0600562">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC30:_Youth,_Education_&amp;_Learning"/>
+    <rdfs:label>Education, Distance</rdfs:label>
+    <metadata:id>C0600562</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5444056">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC30:_Youth,_Education_&amp;_Learning"/>
+    <rdfs:label>Helpful coping strategy your child used during the COVID-19 outbreak</rdfs:label>
+    <metadata:id>C5444056</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/1854">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC23:_Safety_&amp;_Security_Protocols"/>
+    <rdf:type rdf:resource="http://example.org/metacovid/MC26:_Testing,_Tracing_&amp;_Monitoring"/>
+    <rdfs:label>disease prevention</rdfs:label>
+    <metadata:id>1854</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/1854</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/CAP/1308">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC30:_Youth,_Education_&amp;_Learning"/>
+    <rdfs:label>Child_Care</rdfs:label>
+    <metadata:code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">13</metadata:code>
+    <metadata:sub_code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1308</metadata:sub_code>
+    <metadata:category>Social_Welfare</metadata:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/c_658ff033">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC7:_Digital_Transformation_&amp;_Technology"/>
+    <rdfs:label>digital transformation</rdfs:label>
+    <metadata:id>c_658ff033</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/c_658ff033</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C2986570">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC2:_Business_Impact_&amp;_Sector-specific_Challenges"/>
+    <rdfs:label>Business Personnel</rdfs:label>
+    <metadata:id>C2986570</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5400427">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC27:_Travel,_Transportation_&amp;_Mobility"/>
+    <rdfs:label>Travel-associated COVID-19 exposure</rdfs:label>
+    <metadata:id>C5400427</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0040861">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC11:_Ethics_of_Healthcare_&amp;_Treatment"/>
+    <rdfs:label>Triage</rdfs:label>
+    <metadata:id>C0040861</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5555090">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC3:_Clinical_Treatment_&amp;_Hospital_Care"/>
+    <rdfs:label>Time from COVID-19 Diagnosis to Hospitalization</rdfs:label>
+    <metadata:id>C5555090</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/1909">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC19:_Migration_&amp;_Movement_Patterns"/>
+    <rdfs:label>migration</rdfs:label>
+    <metadata:id>1909</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/1909</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/MC24:_Social_Relations_&amp;_Community_Dynamics">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>MC24: Social Relations &amp; Community Dynamics</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0547605">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC23:_Safety_&amp;_Security_Protocols"/>
+    <rdfs:label>prevention of infection</rdfs:label>
+    <metadata:id>C0547605</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5244058">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC26:_Testing,_Tracing_&amp;_Monitoring"/>
+    <rdfs:label>COVID-19 molecular test</rdfs:label>
+    <metadata:id>C5244058</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/1941">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC12:_Gender_&amp;_Minority_Groups"/>
+    <rdfs:label>national minority</rdfs:label>
+    <metadata:id>1941</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/1941</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/MC4:_Communication_&amp;_Information_Dissemination">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>MC4: Communication &amp; Information Dissemination</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C1320373">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC6:_Defense_&amp;_National_Security"/>
+    <rdfs:label>Bioterrorism preparedness</rdfs:label>
+    <metadata:id>C1320373</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/MC25:_Supply_Chain_&amp;_Logistics">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>MC25: Supply Chain &amp; Logistics</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/MC13:_Government_Policy_&amp;_Response">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>MC13: Government Policy &amp; Response</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/c_9eea2203">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC4:_Communication_&amp;_Information_Dissemination"/>
+    <rdfs:label>political communication</rdfs:label>
+    <metadata:id>c_9eea2203</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/c_9eea2203</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5708291">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC29:_Vaccination_&amp;_Immunology"/>
+    <rdfs:label>COVID-19 Vaccine Complacency</rdfs:label>
+    <metadata:id>C5708291</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/MC9:_Environment_&amp;_Climate">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>MC9: Environment &amp; Climate</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/MC22:_Research,_Innovation_&amp;_Development">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>MC22: Research, Innovation &amp; Development</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/MC26:_Testing,_Tracing_&amp;_Monitoring">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>MC26: Testing, Tracing &amp; Monitoring</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/Eurovoc/6215">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC30:_Youth,_Education_&amp;_Learning"/>
+    <rdfs:label>youth policy</rdfs:label>
+    <metadata:id>6215</metadata:id>
+    <metadata:URI>http://eurovoc.europa.eu/6215</metadata:URI>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0556284">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC18:_Mental_Health_&amp;_Psychological_Well-being"/>
+    <rdfs:label>Mental health impairment</rdfs:label>
+    <metadata:id>C0556284</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C5444744">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC15:_Labor_&amp;_Employment_Dynamics"/>
+    <rdfs:label>Significant job changes during the COVID-19 outbreak</rdfs:label>
+    <metadata:id>C5444744</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/CAP/321">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC29:_Vaccination_&amp;_Immunology"/>
+    <rdfs:label>Drug_Industry</rdfs:label>
+    <metadata:code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</metadata:code>
+    <metadata:sub_code rdf:datatype="http://www.w3.org/2001/XMLSchema#int">321</metadata:sub_code>
+    <metadata:category>Health</metadata:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/MC20:_Political_Implications_&amp;_Governance">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>MC20: Political Implications &amp; Governance</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0015004">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC11:_Ethics_of_Healthcare_&amp;_Treatment"/>
+    <rdfs:label>Ethics, Medical</rdfs:label>
+    <metadata:id>C0015004</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/MC10:_Epidemiology_&amp;_Virus_Transmission">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>MC10: Epidemiology &amp; Virus Transmission</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C1511175">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC6:_Defense_&amp;_National_Security"/>
+    <rdfs:label>Bioterrorism Research</rdfs:label>
+    <metadata:id>C1511175</metadata:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/metacovid/UMLS/C0597634">
+    <rdf:type rdf:resource="http://example.org/metacovid/MC22:_Research,_Innovation_&amp;_Development"/>
+    <rdfs:label>Vaccine Development</rdfs:label>
+    <metadata:id>C0597634</metadata:id>
+  </rdf:Description>
+</rdf:RDF>
